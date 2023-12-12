@@ -1,0 +1,8 @@
+[config]
+test = "Here's some test Text"
+
+;############################################
+; Name of New Project 
+;   NOTE: Keep all file names one word or words linke by underscores
+project_name = verify_active_remote_session
+scripts_path = E:\Scripts

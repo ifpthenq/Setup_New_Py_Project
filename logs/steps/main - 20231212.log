@@ -1,0 +1,80 @@
+[INFO] |[steps.py:12] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:22] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:12] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:22] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:12] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:22] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:12] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:22] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:13] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:31] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:24] 	| Copying create_venv.bat to E:\Scripts\verify_active_remote_session\create_venv.bat
+[INFO] |[steps.py:13] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:31] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:24] 	| Copying create_venv.bat to E:\Scripts\verify_active_remote_session\create_venv.bat
+[INFO] |[steps.py:14] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:33] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:14] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:34] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:19] 	| DBG: create_project_directory
+[INFO] |[steps.py:14] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:34] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:19] 	| DBG: create_project_directory
+[INFO] |[steps.py:27] 	| Copying create_venv.bat to E:\Scripts\verify_active_remote_session\create_venv.bat
+[INFO] |[steps.py:29] 	| Copy completed
+[INFO] |[steps.py:14] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:86] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:19] 	| DBG: create_project_directory
+[INFO] |[steps.py:27] 	| Copying create_venv.bat to E:\Scripts\verify_active_remote_session\create_venv.bat
+[INFO] |[steps.py:29] 	| Copy completed
+[INFO] |[steps.py:33] 	| Copying lib directory to E:\Scripts\verify_active_remote_session\lib
+[INFO] |[steps.py:35] 	| Copy completed
+[INFO] |[steps.py:39] 	| Copying config.txt to E:\Scripts\verify_active_remote_session\config.txt
+[INFO] |[steps.py:41] 	| Copy completed
+[INFO] |[steps.py:45] 	| Creating main.py in E:\Scripts\verify_active_remote_session\main.py
+[INFO] |[steps.py:64] 	| main.py created
+[INFO] |[steps.py:68] 	| Copying gitinit.bat to E:\Scripts\verify_active_remote_session\gitinit.bat
+[INFO] |[steps.py:14] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:86] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:19] 	| DBG: create_project_directory
+[INFO] |[steps.py:27] 	| Copying create_venv.bat to E:\Scripts\verify_active_remote_session\create_venv.bat
+[INFO] |[steps.py:29] 	| Copy completed
+[INFO] |[steps.py:33] 	| Copying lib directory to E:\Scripts\verify_active_remote_session\lib
+[INFO] |[steps.py:35] 	| Copy completed
+[INFO] |[steps.py:39] 	| Copying config.txt to E:\Scripts\verify_active_remote_session\config.txt
+[INFO] |[steps.py:41] 	| Copy completed
+[INFO] |[steps.py:45] 	| Creating main.py in E:\Scripts\verify_active_remote_session\main.py
+[INFO] |[steps.py:64] 	| main.py created
+[INFO] |[steps.py:68] 	| Copying gitinit.bat to E:\Scripts\verify_active_remote_session\gitinit.bat
+[INFO] |[steps.py:70] 	| Copy completed
+[INFO] |[steps.py:74] 	| Creating .gitignore in E:\Scripts\verify_active_remote_session\.gitignore
+[INFO] |[steps.py:81] 	| .gitignore created
+[INFO] |[steps.py:14] 	| ==== INITIATE LOGFILE ====
+[INFO] |[steps.py:92] 	| BEGGINING MAIN
+[INFO] |[ahConfig.py:14] 	| ==== INITIATE ahConfig ====
+[INFO] |[steps.py:19] 	| DBG: create_project_directory
+[INFO] |[steps.py:27] 	| Copying create_venv.bat to E:\Scripts\verify_active_remote_session\create_venv.bat
+[INFO] |[steps.py:29] 	| Copy completed
+[INFO] |[steps.py:33] 	| Copying lib directory to E:\Scripts\verify_active_remote_session\lib
+[INFO] |[steps.py:35] 	| Copy completed
+[INFO] |[steps.py:39] 	| Copying config.txt to E:\Scripts\verify_active_remote_session\config.txt
+[INFO] |[steps.py:41] 	| Copy completed
+[INFO] |[steps.py:45] 	| Creating main.py in E:\Scripts\verify_active_remote_session\main.py
+[INFO] |[steps.py:64] 	| main.py created
+[INFO] |[steps.py:68] 	| Copying gitinit.bat to E:\Scripts\verify_active_remote_session\gitinit.bat
+[INFO] |[steps.py:70] 	| Copy completed
+[INFO] |[steps.py:74] 	| Creating .gitignore in E:\Scripts\verify_active_remote_session\.gitignore
+[INFO] |[steps.py:81] 	| .gitignore created
+[INFO] |[steps.py:85] 	| Copying launchCMD.bat to E:\Scripts\verify_active_remote_session\launchCMD.bat
+[INFO] |[steps.py:87] 	| Copy completed
